@@ -1,5 +1,4 @@
 #python train.py --model gnn --training_data csd_data/csd_cocrystals2020.csv --save_dir pretrained_models --model_name gnn_model -n_epochs 1 -lr 0
-
 import sys
 import json
 import tempfile

@@ -2,6 +2,7 @@ name: digital_discovery
 channels:
   - conda-forge
   - defaults
+  - pytorch
 dependencies:
   - python=3.8
   - pytorch==1.10.2

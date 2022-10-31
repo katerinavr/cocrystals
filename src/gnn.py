@@ -99,7 +99,7 @@ class PairsAutoEncoder(nn.Module):
 
 def load_dataset(filename):
     dataset=pd.read_csv(filename, encoding='latin1')
-    dataset = dataset.iloc[:10,:]
+    dataset = dataset.iloc[:,:]
     smiles1 =  dataset['smiles1']
     smiles2 =  dataset['smiles2']
     validation_set= get_representation(smiles1, smiles2)    
