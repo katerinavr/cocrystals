@@ -103,7 +103,7 @@ This work is described in detail in the following publication:
     title = {Molecular set transformer: attending to the co-crystals in the Cambridge structural database},
     journal = {Digital Discovery},
     volume = {6},
-    year = {2},
+    year = {2022},
     doi = {10.1039/d2dd00068g},
     URL = {https://doi.org/10.1039/D2DD00068G}
     }
