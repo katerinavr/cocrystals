@@ -93,3 +93,20 @@ gnn_model = load_model('gnn', 'pretrained_models/model.pth')
 Click on the link: [Co-crystal screeening GUI](https://share.streamlit.io/katerinavr/streamlit/app.py)
 
 The full code and dependencies can be found to the following repository: https://github.com/katerinavr/streamlit
+
+
+# Citing
+This work is described in detail in the following publication:
+```
+
+@article{10.1039/d2dd00068g,
+    author = {Vriza, Aikaterini and Sovago, Ioana. and Widdowson, Daniel and Kurlin Vitaliy, and Wood, Peter A. and Dyer, Matthew S.},
+    title = {Molecular set transformer: attending to the co-crystals in the Cambridge structural database},
+    journal = {Digital Discovery},
+    volume = {6},
+    year = {2},
+    doi = {10.1039/d2dd00068g},
+    URL = {https://doi.org/10.1039/D2DD00068G}
+    }
+
+```
